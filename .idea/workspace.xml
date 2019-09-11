@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f8ee04-f142-4786-95ce-f4a251db056b" name="Default" comment="" />
+    <list default="true" id="02f8ee04-f142-4786-95ce-f4a251db056b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/elder-scrolls-game/character/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elder-scrolls-game/character/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/elder-scrolls-game/gameEvents/GameEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elder-scrolls-game/gameEvents/GameEvent.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            <state relative-caret-position="238">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#startGame#0;class#Main#0" />
@@ -43,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -64,14 +70,14 @@
         <option value="$PROJECT_DIR$/src/weapons/Axe.java" />
         <option value="$PROJECT_DIR$/src/weapons/LightningBolt.java" />
         <option value="$PROJECT_DIR$/src/weapons/Flame.java" />
-        <option value="$PROJECT_DIR$/src/gameEvents/GameEvent.java" />
         <option value="$PROJECT_DIR$/src/potions/Potion.java" />
         <option value="$PROJECT_DIR$/src/potions/MagicPotion.java" />
         <option value="$PROJECT_DIR$/src/potions/HealthPotion.java" />
         <option value="$PROJECT_DIR$/src/potions/AgilityPotion.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/character/Character.java" />
         <option value="$PROJECT_DIR$/src/character/types/Type.java" />
+        <option value="$PROJECT_DIR$/src/character/Character.java" />
+        <option value="$PROJECT_DIR$/src/gameEvents/GameEvent.java" />
       </list>
     </option>
   </component>
@@ -94,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -113,6 +117,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,14 +213,24 @@
       <workItem from="1568063701561" duration="138000" />
       <workItem from="1568217441486" duration="2585000" />
       <workItem from="1568222642394" duration="182000" />
+      <workItem from="1568223754201" duration="260000" />
     </task>
+    <task id="LOCAL-00001" summary="commited">
+      <created>1568224003266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568224003266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91846000" />
+    <option name="totallyTimeSpent" value="92106000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -225,7 +241,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.27098832" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.6269926" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -249,17 +265,18 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.7364506" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32943678" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2203125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.7364506" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5802338" />
@@ -268,12 +285,11 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005208" side_tool="true" weight="0.27098832" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32943678" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,12 +298,34 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="commited" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#startGame#0;class#Main#0" />
+            <element signature="method#getRace#0;class#Main#0" />
+            <element signature="method#getType#0;class#Main#0" />
+            <element signature="method#getWeaponName#0;class#Main#0" />
+            <element signature="method#getWeapon#0;class#Main#0" />
+            <element signature="method#createCharacter#0;class#Main#0" />
+            <element signature="method#buildCharacter#0;class#Main#0" />
+            <element signature="method#equip#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -535,29 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gameEvents/GameEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generate#0;class#GameEvent#0" />
-            <element signature="method#initEvents#0;class#GameEvent#0" />
-            <element signature="method#event1#0;class#GameEvent#0" />
-            <element signature="method#event2#0;class#GameEvent#0" />
-            <element signature="method#event3#0;class#GameEvent#0" />
-            <element signature="method#event4#0;class#GameEvent#0" />
-            <element signature="method#event5#0;class#GameEvent#0" />
-            <element signature="method#choosePotions#0;class#GameEvent#0" />
-            <element signature="method#usePotion#0;class#GameEvent#0" />
-            <element signature="method#fight#0;class#GameEvent#0" />
-            <element signature="method#getAction#0;class#GameEvent#0" />
-            <element signature="method#getPotion#0;class#GameEvent#0" />
-            <element signature="method#getCount#0;class#GameEvent#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weapons/Weapon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -581,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/character/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="231" lean-forward="true" selection-start-line="231" selection-end-line="231" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#eat#0;class#Character#0" />
@@ -598,10 +613,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameEvents/GameEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="185" column="21" lean-forward="true" selection-start-line="185" selection-start-column="21" selection-end-line="185" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#generate#0;class#GameEvent#0" />
+            <element signature="method#initEvents#0;class#GameEvent#0" />
+            <element signature="method#event1#0;class#GameEvent#0" />
+            <element signature="method#event2#0;class#GameEvent#0" />
+            <element signature="method#event3#0;class#GameEvent#0" />
+            <element signature="method#event4#0;class#GameEvent#0" />
+            <element signature="method#event5#0;class#GameEvent#0" />
+            <element signature="method#usePotion#0;class#GameEvent#0" />
+            <element signature="method#fight#0;class#GameEvent#0" />
+            <element signature="method#getAction#0;class#GameEvent#0" />
+            <element signature="method#getPotion#0;class#GameEvent#0" />
+            <element signature="method#getCount#0;class#GameEvent#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state relative-caret-position="238">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#startGame#0;class#Main#0" />
