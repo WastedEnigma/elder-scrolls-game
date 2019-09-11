@@ -3,10 +3,7 @@ package gameEvents;
 import character.Character;
 import character.races.Race;
 import character.types.*;
-import potions.AgilityPotion;
-import potions.HealthPotion;
-import potions.MagicPotion;
-import potions.Potion;
+import potions.*;
 import weapons.*;
 
 import java.util.Scanner;
@@ -188,7 +185,6 @@ public final class GameEvent {
                 break;
             case "m":
                 p = new MagicPotion();
-                character.buy(p, count);
                 character.buy(p, count);
                 usePotion(p, character);
                 break;
